@@ -1,0 +1,4 @@
+http://www.example.com/index.html
+http://www.example.com/aboutus.html
+http://www.example.com/rooms.html
+http://www.example.com/reserve.html

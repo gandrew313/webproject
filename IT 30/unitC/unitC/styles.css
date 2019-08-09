@@ -1,0 +1,26 @@
+/* Lakeland Reeds Bed and Breakfast Style Sheet
+ Filename: styles.css
+ 
+ Author: Andrew Gertz
+ Date: 9 October 2017
+ HTML and CSS3 Illustrated Unit C, Lessons */
+
+body {
+               background-color: ivory;
+               text-align: left;
+          	 }
+          	 h1, #contact {
+          	 	background-color: palegoldenrod;
+          	 	color: dimgray;
+          	 }
+          	 #contact {
+          	 	text-align: right;     
+          	 }
+          	 .accent{
+          	 	color: darkcyan;
+          	 }
+	
+p{
+	color:red;
+}
+
